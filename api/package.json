@@ -1,0 +1,9 @@
+{
+  "name": "discord-interactions-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "discord-interactions": "^1.0.2",
+    "raw-body": "^2.4.1"
+  }
+}
